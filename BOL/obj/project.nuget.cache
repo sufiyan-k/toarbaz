@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CwVVZvlzqDPAVSquLDmV7NPTc6UHz791V6qnZQXvgNKZAcbFNJzmFLWtZytPx68y+KWDT52rXqeSaBt2+UkoUg==",
+  "success": true,
+  "projectFilePath": "D:\\Sufiyan and sahil\\dotnet_data\\dotnet\\Day11\\ECommerce\\BOL\\BOL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dac\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\dac\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\dac\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,24 @@
+@using BOL;
+@{
+    ViewData["Title"] = "details Page";
+}
+
+<div>
+    <h1>List of employees in the department</h1>
+    @{
+        List<Employee> emplist=(List<Employee>)ViewData["emps"];
+            @foreach (Employee e in emplist)
+            {
+                <ul>
+                    <li>@e.FirstName</li>
+                    <li>@e.LastName</li>
+                    <li>@e.DeptId</li>
+                    <li>@e.Email</li>
+                    <li>@e.Address</li>
+
+                </ul>
+            }
+
+
+    }
+</div>

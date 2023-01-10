@@ -1,0 +1,70 @@
+{
+  "FilePath": "d:\\Sufiyan and sahil\\dotnet_data\\dotnet\\Day11\\ECommerce\\EStoreWebApp\\EStoreWebApp.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "6.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 1100
+  },
+  "RootNamespace": "EStoreWebApp",
+  "Documents": [
+    {
+      "FilePath": "d:\\Sufiyan and sahil\\dotnet_data\\dotnet\\Day11\\ECommerce\\EStoreWebApp\\Views\\Products\\Index.cshtml",
+      "TargetPath": "Views\\Products\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Sufiyan and sahil\\dotnet_data\\dotnet\\Day11\\ECommerce\\EStoreWebApp\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Sufiyan and sahil\\dotnet_data\\dotnet\\Day11\\ECommerce\\EStoreWebApp\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Sufiyan and sahil\\dotnet_data\\dotnet\\Day11\\ECommerce\\EStoreWebApp\\Views\\Products\\Details.cshtml",
+      "TargetPath": "Views\\Products\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Sufiyan and sahil\\dotnet_data\\dotnet\\Day11\\ECommerce\\EStoreWebApp\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Sufiyan and sahil\\dotnet_data\\dotnet\\Day11\\ECommerce\\EStoreWebApp\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Sufiyan and sahil\\dotnet_data\\dotnet\\Day11\\ECommerce\\EStoreWebApp\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Sufiyan and sahil\\dotnet_data\\dotnet\\Day11\\ECommerce\\EStoreWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Sufiyan and sahil\\dotnet_data\\dotnet\\Day11\\ECommerce\\EStoreWebApp\\Views\\Departments\\Index.cshtml",
+      "TargetPath": "Views\\Departments\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Sufiyan and sahil\\dotnet_data\\dotnet\\Day11\\ECommerce\\EStoreWebApp\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.2"
+}

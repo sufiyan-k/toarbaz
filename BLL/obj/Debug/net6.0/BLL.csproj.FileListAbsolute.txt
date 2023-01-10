@@ -1,0 +1,17 @@
+D:\Sufiyan and sahil\dotnet_data\dotnet\Day11\ECommerce\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\Sufiyan and sahil\dotnet_data\dotnet\Day11\ECommerce\BLL\bin\Debug\net6.0\BLL.dll
+D:\Sufiyan and sahil\dotnet_data\dotnet\Day11\ECommerce\BLL\bin\Debug\net6.0\BLL.pdb
+D:\Sufiyan and sahil\dotnet_data\dotnet\Day11\ECommerce\BLL\bin\Debug\net6.0\BOL.dll
+D:\Sufiyan and sahil\dotnet_data\dotnet\Day11\ECommerce\BLL\bin\Debug\net6.0\DAL.dll
+D:\Sufiyan and sahil\dotnet_data\dotnet\Day11\ECommerce\BLL\bin\Debug\net6.0\BOL.pdb
+D:\Sufiyan and sahil\dotnet_data\dotnet\Day11\ECommerce\BLL\bin\Debug\net6.0\DAL.pdb
+D:\Sufiyan and sahil\dotnet_data\dotnet\Day11\ECommerce\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\Sufiyan and sahil\dotnet_data\dotnet\Day11\ECommerce\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sufiyan and sahil\dotnet_data\dotnet\Day11\ECommerce\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\Sufiyan and sahil\dotnet_data\dotnet\Day11\ECommerce\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\Sufiyan and sahil\dotnet_data\dotnet\Day11\ECommerce\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\Sufiyan and sahil\dotnet_data\dotnet\Day11\ECommerce\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+D:\Sufiyan and sahil\dotnet_data\dotnet\Day11\ECommerce\BLL\obj\Debug\net6.0\BLL.dll
+D:\Sufiyan and sahil\dotnet_data\dotnet\Day11\ECommerce\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\Sufiyan and sahil\dotnet_data\dotnet\Day11\ECommerce\BLL\obj\Debug\net6.0\BLL.pdb
+D:\Sufiyan and sahil\dotnet_data\dotnet\Day11\ECommerce\BLL\obj\Debug\net6.0\ref\BLL.dll
